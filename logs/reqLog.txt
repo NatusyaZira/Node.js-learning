@@ -46,3 +46,10 @@
 20230118	15:09:35	5d8657c2-fbb7-4baa-84ea-5476895ee9df	GET	undefined	/img/img1.jpg
 20230118	15:09:50	d910f9ff-51ec-41ca-b489-117d7634922e	GET	undefined	/index
 20230118	15:09:50	593fca92-18b6-441c-bb5d-3e91723f009f	GET	undefined	/css/style.css
+20230123	00:14:47	fa26bbd0-9fd3-4a1e-b059-a7b458e92fe3	POST	undefined	/auth
+20230123	00:15:44	04b2127c-3d45-46c9-91cb-9fcb3b33d04e	POST	undefined	/register
+20230123	11:42:51	2b4ebeac-356f-4c72-9a46-eaf4682a62ba	POST	undefined	/auth
+20230123	12:25:36	229b14de-face-42bb-a473-a75696b17cfc	POST	undefined	/register
+20230123	12:28:59	1119c59d-cc70-484d-991d-57a8b2001b2f	POST	undefined	/register
+20230123	12:55:08	ba77eaac-6807-4d78-a43a-1c60ccd169ad	POST	undefined	/auth
+20230123	12:56:42	836894ff-db22-4399-8c22-88328282f9ca	POST	undefined	/auth
